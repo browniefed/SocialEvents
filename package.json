@@ -11,6 +11,8 @@
   , "coffee-script":    ">= 1.1.1"
   , "instagram-node-lib":"*"
   , "ntwitter":          "*"
+  , "facebook-node-sdk": "*"
+  , "passport":          "*"
   },
   "devDependencies":
   { "nodeunit":         "*"
